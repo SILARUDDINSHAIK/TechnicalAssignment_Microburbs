@@ -20,4 +20,7 @@ To calculate and visualise the orientation of every property based on its neares
 
 ---
 
-## 🗂️ Folder Structure
+## 🗂️ How to run
+Clone the code using git clone
+Run Code/Taske_2(Orientation).py
+Check the output in the output folder
