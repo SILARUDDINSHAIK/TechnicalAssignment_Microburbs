@@ -1,7 +1,7 @@
 """
 Source File Analysis
 --------------------
-Performs an exploratory analysis of the four main source datasets:
+Performs analysis of the four main source datasets:
     - roads.gpkg,cadastre.gpkg,gnaf_prop.parquet,transactions.parquet
 Author: Silaruddin Shaik
 """
