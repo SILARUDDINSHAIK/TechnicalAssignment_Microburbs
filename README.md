@@ -1,7 +1,7 @@
 # 🏠 Property Orientation Analysis (Task 2)
 
 ## 📄 Project Overview
-This project determines the facing direction of each property by analysing its spatial relationship with the nearest road. Using geospatial data and geometry-based calculations, the script identifies the orientation (e.g., North, South-East) and outputs both tabular and visual insights.
+This project determines the facing direction of each property by analysing its spatial relationship with the nearest road. Using geospatial data and geometry-based calculations, the script identifies the orientation (e.g., North, South-East) and outputs both tabular insights.
 
 ---
 
